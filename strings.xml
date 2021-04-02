@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Implicit Intents</string>
+
+    <string name="edit_text_uri">https://google.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edit_text_loc">Indian Gate</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edit_text_share">Anything to share.</string>
+    <string name="button_share">Share This Text</string>
+    <string name="share_text_with">Share this text with:</string>
+
+</resources>
